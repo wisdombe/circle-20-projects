@@ -36,4 +36,14 @@ The designs were created to the following widths:
 - Weights: 200, 400, 600
 
 
+## card component
 
+  -width: 100%;
+  -max-width: 300px; /* Optional: use this for a fixed width */
+  -height: auto; /* Optional: use a fixed height if required */
+  -padding: 20px;
+  -margin: 10px;
+  -background-color: white; /* Example background color */
+  -border: 1px solid #ccc; /* Example border */
+  -box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Example shadow */
+  -border-radius: 8px; /* Example rounded corners */
